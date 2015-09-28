@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\HitControl.cs">
+    <Files>
+      <File FileName="Assets\HitControl.cs" Line="11" Column="3" />
+      <File FileName="Assets\TrainControl.cs" Line="1" Column="1" />
+      <File FileName="Assets\PlayerControl.cs" Line="1" Column="1" />
+      <File FileName="Assets\EnemyControl.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
